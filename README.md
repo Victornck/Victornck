@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=30&pause=500&color=ffff&start=true&vstart=true&width=900&height=50&lines=Hey%2C+I'm+Victor+Berlinck!" alt="Typing SVG" />
 </h3>
- 🔭 Software Engineer
+ Desenvolvedor Fullstack Júnior | Java & Spring Boot • Node.js • React
  
 ### Tecnologias & Ferramentas
 
