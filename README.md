@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayssareisdev/">
-    <img src="./GitHub.png" />
+    <img src="./banner.png" />
   </a>
 </p>
 
